@@ -1,7 +1,8 @@
-# 3MTT-Program
-Machine Learning>> Deep Learning 
+# 3MTT-Program 
 
-### Project 3
+## Breast Cancer Prediction 
+
+### Project Overview 
 This project was carried out to help predict breast cancer. It is built to detect if breast cancer is positive or negative. The dataset was gotten from Wisconsin Diagnostic Research Centre.
 
 ### Tools used 
